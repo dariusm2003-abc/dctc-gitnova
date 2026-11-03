@@ -12,5 +12,4 @@ Ma numesc Ivan, sunt de 17 ani - student la UTCN cu filiala in Baia Mare la prof
 placeholder
 
 ### Sabou Oana
-
-placeholder
+Mă numesc Oana, am 19 ani, sunt studentă la UTCN cu filiala în Baia Mare la profilul matematică-informatică, anul I. Îmi place să ies să mă distrez cu prietenii și să învăț lucruri noi. 
