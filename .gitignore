@@ -1,0 +1,36 @@
+# Python și Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Secrete
+.env
+*.pem
+
+# Virtual env
+.venv/
+venv/
+.env/
+.python-environment
+
+# Sistemul și editoarele
+.DS_Store
+Thumbs.db
+.vscode/
+
+
+# Test/ benchmarking / 
+.pytest_cache/
+.benchmarks/
+.hypothesis/
+.mutmut-cache
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+nosetests.xml
+.tox
+.cache/
