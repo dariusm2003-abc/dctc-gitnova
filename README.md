@@ -1,3 +1,11 @@
+# Echipa GitNova
+
+## Tema proiectului
+
+- **Numarul temei:** 3
+- **Titlul temei:** Clima locala
+- **Intrebarea studiului:** Exista o tendinta in media anuala a temperaturii si in numarul zilelor tropicale?
+
 # Despre Mine 
 
 ### Darius Marchis
