@@ -56,7 +56,7 @@ Eu o sa scriu codul de preluare a datelor din Open-Meteo. Sa implementez metrici
 
 - Darius Marchis
 
-placeholder
+Voi coordona activitatea echipei, voi urmari progresul sarcinilor si ma voi ocupa de organizarea colaborarii prin Git si GitHub. Voi contribui la analiza datelor si la realizarea documentatiei proiectului.
 
 - Rajna Mihai
 
