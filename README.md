@@ -6,6 +6,15 @@
 - **Titlul temei:** Clima locala
 - **Intrebarea studiului:** Exista o tendinta in media anuala a temperaturii si in numarul zilelor tropicale?
 
+## Echipa
+
+| Nume | Utilizator GitHub | Program | Rol initial |
+|---|---|---|---|
+| Marchis Darius | | | |
+| Maryna Ivan | | | |
+| Rajna Mihai | | | |
+| Sabou Oana | | | |
+
 # Despre Mine 
 
 ### Darius Marchis
