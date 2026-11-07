@@ -9,7 +9,7 @@ Ma numesc Ivan, sunt de 17 ani - student la UTCN cu filiala in Baia Mare la prof
 
 ### Rajna Mihai
 
-placeholder
+Sunt Rajna Mihai și am o firmă de tehnologie, VATRA (vatracore.ro), din Baia Mare: facem site-uri, aplicații și sisteme de pontaj pentru firme mici. Îmi place să construiesc lucruri care chiar ajută oamenii. În timpul liber sunt pasionat de munte și drumeții montane.
 
 ### Sabou Oana
 Mă numesc Oana, am 19 ani, sunt studentă la UTCN cu filiala în Baia Mare la profilul matematică-informatică, anul I. Îmi place să ies să mă distrez cu prietenii și să învăț lucruri noi. 
