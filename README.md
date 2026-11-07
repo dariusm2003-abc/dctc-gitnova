@@ -11,7 +11,7 @@
 | Nume | Utilizator GitHub | Program | Rol initial |
 |---|---|---|---|
 | Marchis Darius | dariusm2003-abc | Matematica-informatica, anul I | Coordonator |
-| Maryna Ivan | | | |
+| Maryna Ivan | ShupoShupoShrimp | Matematica-informatica, anul I | Date si Notebook|
 | Rajna Mihai | | | |
 | Sabou Oana | | | |
 
