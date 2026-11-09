@@ -59,4 +59,4 @@ Ma voi ocupa de redactarea raportului final in Overleaf,organizarea informatiilo
 ---
 # Declaratie AI
 
-Maryna Ivan - An folosit AI (Gemini si Qwen) pentru a intelege cerintele de la laborator in mod mai clar.
+Maryna Ivan - Am folosit AI (Gemini si Qwen) pentru a intelege cerintele de la laborator in mod mai clar.
