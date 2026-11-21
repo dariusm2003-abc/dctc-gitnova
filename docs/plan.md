@@ -1,4 +1,4 @@
-## Darius Marchis – Coordonator
+# Darius Marchis – Coordonator
 
 - Coordonez activitatile echipei si urmaresc progresul proiectului.
 - Organizez sarcinile si responsabilitatile intre membrii echipei.
