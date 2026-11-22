@@ -13,7 +13,7 @@
 |---|---|---|---|
 | Marchis Darius | dariusm2003-abc | Matematica-informatica, anul I | Coordonator |
 | Maryna Ivan | ShupoShupoShrimp | Matematica-informatica, anul I | Date si Notebook|
-| Rajna Mihai | | | |
+| Rajna Mihai | exeKatana | Matematica-informatica, anul I | Depozit |
 | Sabou Oana | oanaaa388 | Matematica-informatica, anul 1 | Responsabil raport |
 
 ---
@@ -48,7 +48,7 @@ Voi coordona activitatea echipei, voi urmari progresul sarcinilor si ma voi ocup
 ---
 - Rajna Mihai
 
-placeholder
+Ca responsabil de depozit, administrez repository-ul de pe GitHub și asigur protecția ramurii principale. Mă ocup de revizuirea codului  și de integrarea modificărilor prin aprobarea și îmbinarea pull request-urilor.
 
 ---
 - Sabou Oana
