@@ -27,6 +27,8 @@ Proiectul echipei noastre este despre clima in Baia Mare. O sa analizam arhiva i
 - Python si pandas 
 - Open-Meteo API pentru arhiva istorica
 - Git si GitHub pentru colaborarea in echipa
+- Folosim si LangGraph pentru construirea agentului AI.
+- Vom integra instrumentele in fluxul de analiza a datelor.
 
 NOTE:
 Alte instrumente se vor adauga pe parcurs ca completam proiectul
