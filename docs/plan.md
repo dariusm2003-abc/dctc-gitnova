@@ -17,3 +17,13 @@
 - Instrumente: Python, pandas, requests, matplotlib, pytest, Git/GitHub.
 - Riscuri: indisponibilitatea sau limitele API-ului extern; valori lipsă în date; timp limitat dacă analiza întârzie.
 - Colaborare: împart sarcinile prin issue-uri, revizuiesc PR-urile și mențin depozitul curat.
+
+#Rajna Mihai - Depozit 
+- Administrez depozitul GitHub al proiectului și mențin structura curată a fișierelor.
+- Configurez și aplic regulile de protecție pentru ramura principală, prevenind modificările directe nevalidate.
+- Efectuez revizuirea codului (code review) pentru toate Pull Request-urile trimise de membrii echipei.
+- Aprob și îmbin modificările verificate în ramura `main`.
+- Gestionez ramurile de lucru și ajut la rezolvarea eventualelor conflicte de îmbinare.
+- Instrumente: Git, GitHub, Visual Studio Code.
+- Riscuri principale: apariția conflictelor la îmbinarea codului, întârzieri în revizuirea Pull Request-urilor sau introducerea unor erori în ramura `main`.
+- Colaborare: ofer feedback pe Pull Request-uri, verific respectarea standardelor proiectului și comunic constant cu echipa înainte de integrarea modificărilor.
